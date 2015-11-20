@@ -6,7 +6,7 @@ public class RadixSort {
 
     public static void main(String[] args) {
 
-        int[] array = {165, 142, 139, 110, 1000 , 1 , 3}; // Input
+        int[] array = {165, 142, 139, 110, 1000 , 3 , 1}; // Input
 
         radixSorter(array);
     }
@@ -25,7 +25,7 @@ public class RadixSort {
 
         int count = 0;
         while(max > 0) {
-            countSort(a, ++count);
+            countSort(a, count++);
             max = max /10;
         }
         
