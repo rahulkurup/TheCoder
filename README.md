@@ -8,3 +8,5 @@ The Coding Exercises
 3) Permutation of a given string (BackTracking)
 
 4) Find common elements in three sorted arrays of different lengths
+
+5) Generate prime numbers till n (Sieve Of Eratosthenes)
