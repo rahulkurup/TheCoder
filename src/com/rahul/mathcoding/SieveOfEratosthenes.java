@@ -7,7 +7,6 @@ import java.util.List;
 public class  SieveOfEratosthenes {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
         primeGenerator(25);
 
     }
@@ -43,3 +42,18 @@ public class  SieveOfEratosthenes {
         }
     }
 }
+
+
+
+/* 
+ * ***************TEST CASE RESULT for n = 25*************************
+
+2
+3
+5
+7
+11
+13
+17
+19
+23*/
