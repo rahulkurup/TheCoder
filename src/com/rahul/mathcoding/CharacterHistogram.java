@@ -5,6 +5,20 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.TreeMap;
 
+/* TEST RESULT
+
+            a**************
+            b**********
+            c**************************
+            d*************
+            e*
+            f*
+            g*
+            h*
+            i*
+
+ */
+
 public class CharacterHistogram {
 
     public static void main(String[] args) {
