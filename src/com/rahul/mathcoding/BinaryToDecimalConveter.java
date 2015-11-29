@@ -1,11 +1,18 @@
 package com.rahul.mathcoding;
 
+/*  Test Result
+ * 
+ * 
+ * 10 
+ * 
+ * 
+ */
 
 public class BinaryToDecimalConveter {
 
     public static void main(String[] args) {
 
-        System.out.println(binaryToDecimal1("101"));
+        System.out.println(binaryToDecimal1("1010"));
     }
 
 
