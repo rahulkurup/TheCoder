@@ -2,6 +2,9 @@ package com.search.sort;
 
 public class InsertionSort {
 
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
 
         int [] array = {2,7 ,8, 45, 2,0,49,6};
@@ -12,6 +15,9 @@ public class InsertionSort {
         }
     }
 
+    /**
+     * @param array
+     */
     public static void Insertionsort(int[] array) {
 
         for(int i = 1; i < array.length; i++) {
