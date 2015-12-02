@@ -25,6 +25,7 @@ public class oneCounter {
     }
 
 
+
     public static int counter(int low, int high, int[] a) {
 
         int middle = (high + low) /2;
