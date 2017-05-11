@@ -1,5 +1,5 @@
 # TheCoder
-The Coding Exercises
+The Algorithmic solutions for a set of difficult Problems
 
 1) Radix Sort using Count sort
 
